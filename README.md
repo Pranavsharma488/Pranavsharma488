@@ -1,4 +1,4 @@
-![logo](https://github.com/ArshdeepSingh009/ArshdeepSingh009/blob/main/Logo.png)
+![logo](https://github.com/Pranavsharma488/Pranavsharma488/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
 <h3 align="center">A passionate Data Analyst exploring Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
